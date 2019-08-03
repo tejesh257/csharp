@@ -20,5 +20,9 @@ Like wise all Computer Interface Languages are also made of several elements lik
 How to become a good Programmer
 =================================
 1.Work on basics
-2.Required patience
-3.Never stop after failures
+
+2.Never stop after failures
+
+3.Required patience
+
+
