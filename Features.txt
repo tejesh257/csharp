@@ -1,0 +1,13 @@
+=>C# is a simple ,modern, general-purpose, Object-oriented programming language 
+=>It is designed for Common Language Infrastructure (CLI)
+=>It is component oriented
+=>It is easy to learn
+=>It is a structured language
+=>It produces efficient programs
+=>It can be compiled on a variety of computer platforms
+=>It is a part of .Net Framework
+=>Simple Multithreading
+=>Easy-t-Use Generics
+=>Automatic Garbage Collection
+
+
