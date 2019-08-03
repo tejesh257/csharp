@@ -4,7 +4,7 @@ This project implemented to guide how to improve Computer Language skills
 
 As we human beings to communicate we are using Languages like English,Hindi and Telugu
 
-To communicate computers we are using languages like Python,C# and Java
+To communicate computers we are using languages like C#,Python and Java
 
 All human interface languages have several elemnts like Parts of Speech and Grammar
 
