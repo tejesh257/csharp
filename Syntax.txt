@@ -1,0 +1,39 @@
+=>C# is an object-oriented programming language. In Object-Oriented Programming methodology, a program consists of various objects that interact with each other by means of actions.
+=>The actions that an object may take are called methods. Objects of the same kind are said to have the same type or, are said to be in the same class.
+program
+
+using system;
+namespace RectangleApplication
+{
+Class Rectangle
+{
+double length;
+double width;
+public void Acceptdetails()
+{
+length=4.5;
+width=3.5;
+}
+public double GetArea()
+{
+return length*width;
+}
+public void Display()
+{
+console.writeline("Lenngth:{0}",length);
+console.writeline("Width:{0}",width);
+console.writeline("Area:{0}",GetArea());
+
+}
+}
+class ExecuteRectangle
+{
+static void Main()
+{
+rectangle r = new rectangle();
+r.Acceptdetails();
+r.Display();
+console.readline();
+}
+}
+}

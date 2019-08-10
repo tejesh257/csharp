@@ -1,0 +1,10 @@
+the variablesnin c#, are categorized into the following types
+=>value types
+=>Reference types
+=>Pointer types
+
+value type:
+=>Value type variables can be assigned a value directly. 
+=>They are derived from the class System.ValueType.
+
+Reference Type:
